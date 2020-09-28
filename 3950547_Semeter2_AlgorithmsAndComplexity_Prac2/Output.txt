@@ -1,0 +1,8 @@
+Values [Moletsane Secondary School,Glenridge Primary School,Mafori - Mphahlele High School,Kliptown Primary School,Neksatec,Sparrow FET College,Gazankulu Primary School,WO BIBLE COLLEGE,Saint Barnabas College,Greenwich College,Zerowa Christian Academy,Lufhereng High School,Emisebeni Junior Primary School,Khotso Primary School,Ditau Primary School,Winnie Madikizela-Mandela School,Johannesburg Bible College,Oasis Manor,]
+Sorted [Ditau Primary School, Emisebeni Junior Primary School, Gazankulu Primary School, Glenridge Primary School, Greenwich College, Johannesburg Bible College, Khotso Primary School, Kliptown Primary School, Lufhereng High School, Mafori - Mphahlele High School, Moletsane Secondary School, Neksatec, Oasis Manor, Saint Barnabas College, Sparrow FET College, WO BIBLE COLLEGE, Winnie Madikizela-Mandela School, Zerowa Christian Academy]
+
+Following the Depth First Traversal of a Graph only contain schools with a rating of 5
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+
+Following is the Breath First Traversal of a Graph only contain schools with a rating of 5(starting from vertex 0)
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
